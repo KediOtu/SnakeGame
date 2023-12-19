@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+#maven and netbeans
+target/
+nb-configuration.xml
+.nb-gradle/
+.nb-gradle/
+.netbeans/
+
+#java idelerden oluşan diger ozel dosyalar
+.classpath
+.project
+.settings/
