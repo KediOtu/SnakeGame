@@ -29,6 +29,7 @@ nb-configuration.xml
 .nb-gradle/
 .nb-gradle/
 .netbeans/
+pom.xml
 
 #java idelerden oluşan diger ozel dosyalar
 .classpath
